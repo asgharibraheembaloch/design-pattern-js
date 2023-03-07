@@ -71,7 +71,7 @@ Creational design patterns provide various object creation mechanisms, which inc
 > Lets you ensure that a class has only one instance, while providing a global access point to this instance.
 
 3.  ## Structural Patterns
-> Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
+Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
 1. ### Adapter
 

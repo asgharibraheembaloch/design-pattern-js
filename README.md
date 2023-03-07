@@ -1,7 +1,7 @@
 # Design Pattern
  A design pattern is a general and reusable solution for a common problem that occurs in software design (geeksforgeeks.org). Design patterns are not specific to any programming language, but rather represent an idea or a principle that can be applied in different contexts (geeksforgeeks.org). Design patterns can help you make your code more flexible, reusable, and maintainable by providing well-tested and proven development paradigms (geeksforgeeks.org). There are three main types of design patterns: creational, structural, and behavioral (freecodecamp.org). Creational patterns deal with how objects are created and initialized. Structural patterns deal with how objects are composed and related. Behavioral patterns deal with how objects communicate and interact (en.wikipedia.org). 
 
-1.  ## Behavioral Patterns
+1.    ## Behavioral Patterns
 Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
 1. ### Chain of Responsibility
